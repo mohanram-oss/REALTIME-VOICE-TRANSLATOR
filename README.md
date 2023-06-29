@@ -14,12 +14,3 @@ KINDLY PIP INSTALL THESE PACKAGES IN ORDER TO EXECUTE THE PROGRAM WITHOUT ANY ER
 
 4. pip install gtts
 
-
-
-USAGE ,
-
-1. give your speech first that you have to translate
-
-2. after that when it asks for language ,  spell the language that you want to convert your string
-
-3. then it will print aswell as say aloud the translated sentence.
